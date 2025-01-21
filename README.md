@@ -33,7 +33,7 @@ One of the projects I'm most proud of is a **simple shell written in C**, built 
 
 ## 🛠️ Technical Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding: 20px;"> <img src="https://img.shields.io/badge/C-⚙️-lightgrey" alt="C Badge" /> <img src="https://img.shields.io/badge/Python-🐍-orange" alt="Python Badge" /> <img src="https://img.shields.io/badge/Git-🔧-red" alt="Git Badge" /> <img src="https://img.shields.io/badge/SQL-💾-blue" alt="SQL Badge" /> <img src="https://img.shields.io/badge/HTML-📄-orange" alt="HTML Badge" /> <img src="https://img.shields.io/badge/CSS-🎨-blue" alt="CSS Badge" /> </div>
+![C Badge](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
@@ -44,10 +44,15 @@ One of the projects I'm most proud of is a **simple shell written in C**, built 
 - 🤝 **Collaborate** with other developers to tackle challenging projects.
 
 --- 
-## 🎮 Interests 
- - 🎮 **Gaming** 
- -  🎥 **Cinema** 
- -  💻 **Technology**
+## 💡 Interests
+
+- 🎮 Gaming
+- 🎥 Cinema
+- 💻 Technology
+- 🌍 Travel
+- 🎶 Music
+- 🚴‍♂️ Sports
+- 🌱 Sustainability
 
 --- 
 ## 🌐 Connect with Me!
