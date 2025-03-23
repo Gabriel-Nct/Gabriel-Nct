@@ -1,4 +1,4 @@
-# 👋 Welcome to Gabriel-Nct GitHub!
+# 👋 Gabriel-Nct
 
 Hi there! I’m **Gabriel**, a passionate student developer always seeking to improve my skills and collaborate on exciting projects. My GitHub is where I share my work, ideas, and technical experiences. Whether you're here to explore, contribute, or find inspiration, you're in the right place!
 
